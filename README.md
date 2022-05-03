@@ -2,8 +2,7 @@
 
 From Iowa City, IA
 
-Business Analytics and Finance student at the University of Iowa's Tippie College of Business
-/nFuture Masters of Finance student at the University of Iowa's Tippie College of Business
+Business Analytics and Finance student at the University of Iowa's Tippie College of Business and future Masters of Finance student at the University of Iowa's Tippie College of Business
 
 <!--
 **nbiancuzzo/nbiancuzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
