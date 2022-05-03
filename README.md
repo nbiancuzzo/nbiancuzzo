@@ -1,4 +1,9 @@
-### Hi there 👋
+### Nick Biancuzzo
+
+From Iowa City, IA
+
+Business Analytics and Finance student at the University of Iowa's Tippie College of Business
+Future Masters of Finance student at the University of Iowa's Tippie College of Business
 
 <!--
 **nbiancuzzo/nbiancuzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
